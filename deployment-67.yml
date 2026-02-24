@@ -33,4 +33,4 @@ spec:
   ports:
     - port: 8085
       targetPort: 8085
-      nodePort: 30085 # Value between 30000–32767
+      nodePort: 30085
